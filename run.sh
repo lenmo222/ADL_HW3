@@ -1,0 +1,1 @@
+python3.8 predict.py $1 $2
